@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtan-vekariya/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kirtan-vekariya/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtan-vekariya/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kirtan-vekariya/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kirtan-vekariya/leet_code/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kirtan-vekariya/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
