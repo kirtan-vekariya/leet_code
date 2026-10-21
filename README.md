@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtan-vekariya/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0904-fruit-into-baskets](https://github.com/kirtan-vekariya/leet_code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kirtan-vekariya/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kirtan-vekariya/leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirtan-vekariya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/kirtan-vekariya/leet_code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kirtan-vekariya/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kirtan-vekariya/leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -103,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirtan-vekariya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/kirtan-vekariya/leet_code/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
