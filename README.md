@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirtan-vekariya/leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtan-vekariya/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0904-fruit-into-baskets](https://github.com/kirtan-vekariya/leet_code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kirtan-vekariya/leet_code/tree/master/1004-max-consecutive-ones-iii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirtan-vekariya/leet_code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirtan-vekariya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/kirtan-vekariya/leet_code/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
