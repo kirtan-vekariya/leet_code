@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/kirtan-vekariya/leet_code/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/kirtan-vekariya/leet_code/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirtan-vekariya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2409-count-days-spent-together](https://github.com/kirtan-vekariya/leet_code/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kirtan-vekariya/leet_code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
