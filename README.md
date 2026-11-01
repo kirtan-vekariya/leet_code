@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kirtan-vekariya/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kirtan-vekariya/leet_code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kirtan-vekariya/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kirtan-vekariya/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kirtan-vekariya/leet_code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kirtan-vekariya/leet_code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/kirtan-vekariya/leet_code/tree/master/0992-subarrays-with-k-different-integers) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kirtan-vekariya/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
