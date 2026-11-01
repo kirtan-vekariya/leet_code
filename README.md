@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kirtan-vekariya/leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtan-vekariya/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kirtan-vekariya/leet_code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0904-fruit-into-baskets](https://github.com/kirtan-vekariya/leet_code/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kirtan-vekariya/leet_code/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kirtan-vekariya/leet_code/tree/master/0992-subarrays-with-k-different-integers) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kirtan-vekariya/leet_code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kirtan-vekariya/leet_code/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/kirtan-vekariya/leet_code/tree/master/2409-count-days-spent-together) |
