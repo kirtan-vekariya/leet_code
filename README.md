@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kirtan-vekariya/leet_code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kirtan-vekariya/leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0904-fruit-into-baskets](https://github.com/kirtan-vekariya/leet_code/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/kirtan-vekariya/leet_code/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kirtan-vekariya/leet_code/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kirtan-vekariya/leet_code/tree/master/1004-max-consecutive-ones-iii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtan-vekariya/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kirtan-vekariya/leet_code/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kirtan-vekariya/leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kirtan-vekariya/leet_code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
@@ -112,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kirtan-vekariya/leet_code/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kirtan-vekariya/leet_code/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kirtan-vekariya/leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kirtan-vekariya/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/kirtan-vekariya/leet_code/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
@@ -228,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kirtan-vekariya/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kirtan-vekariya/leet_code/tree/master/0543-diameter-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirtan-vekariya/leet_code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
